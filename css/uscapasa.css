@@ -186,6 +186,7 @@ a:focus {
 .btn-circle {
     position: absolute;
     right: -10px;
+    bottom: -80px;
     width: 70px;
     height: 70px;
     margin-top: 15px;
